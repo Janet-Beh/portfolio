@@ -2,8 +2,8 @@ import './globals.css'
 
 export const metadata = {
   /* EDIT: Your name and a short description for search engines */
-  title: 'Teo Kuo Hong — Portfolio',
-  description: 'Final year student at Sunway University passionate about data analytics and machine learning.',
+  title: 'Janet Beh Jing Le — Portfolio',
+  description: 'Final year student at Sunway University passionate about computer science.',
 }
 
 export default function RootLayout({ children }) {
