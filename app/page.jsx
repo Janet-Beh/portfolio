@@ -6,17 +6,17 @@ export default function Portfolio() {
       <section className="text-center space-y-4">
 
         {/* EDIT: Your full name */}
-        <h1 className="text-5xl font-bold text-slate-900">Teo Kuo Hong</h1>
+        <h1 className="text-5xl font-bold text-slate-900">Janet Beh Jing Le</h1>
 
         {/* EDIT: Your job title or tagline */}
-        <p className="text-xl text-indigo-600 font-medium">Aspiring Data Scientist</p>
+        <p className="text-xl text-indigo-600 font-medium">Aspiring Computer Scientist</p>
 
         {/* Contact links */}
         <div className="flex justify-center gap-6 text-sm text-slate-500">
 
           {/* EDIT: Your email address */}
           <a href="mailto:kuohong@netizenexperience.com" className="hover:text-indigo-600 transition-colors">
-            kuohong@netizenexperience.com
+            janetbeh11@gmail.com
           </a>
 
           {/* EDIT: Your GitHub URL */}
