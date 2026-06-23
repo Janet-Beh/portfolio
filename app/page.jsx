@@ -9,7 +9,7 @@ export default function Portfolio() {
         <h1 className="text-5xl font-bold text-slate-900">Janet Beh Jing Le</h1>
 
         {/* EDIT: Your job title or tagline */}
-        <p className="text-xl text-indigo-600 font-medium">Aspiring Computer Scientist</p>
+        <p className="text-xl text-indigo-600 font-medium">Aspiring Software Development</p>
 
         {/* Contact links */}
         <div className="flex justify-center gap-6 text-sm text-slate-500">
